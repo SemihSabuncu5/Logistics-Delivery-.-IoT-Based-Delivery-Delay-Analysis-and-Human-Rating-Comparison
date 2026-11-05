@@ -1,0 +1,31 @@
+# Veri Profili
+- Satır: 45,584
+- Sütun: 20
+- Yinelenen delivery_id: 0
+- Tarih aralığı: 2022-02-11 – 2022-04-06
+- Ortalama süre: 26.29 dk
+- Medyan süre: 26.0 dk
+- Temiz dosyada geçerli mesafe: 45,153
+- Temiz dosyada geçerli paket alma zamanı: 44,264
+
+## Eksik değer sayıları (ham dosya)
+- `ID`: 0
+- `Delivery_person_ID`: 0
+- `Delivery_person_Age`: 1,854
+- `Delivery_person_Ratings`: 1,908
+- `Restaurant_latitude`: 0
+- `Restaurant_longitude`: 0
+- `Delivery_location_latitude`: 0
+- `Delivery_location_longitude`: 0
+- `Order_Date`: 0
+- `Time_Orderd`: 1,731
+- `Time_Order_picked`: 0
+- `Weather_conditions`: 616
+- `Road_traffic_density`: 601
+- `Vehicle_condition`: 0
+- `Type_of_order`: 0
+- `Type_of_vehicle`: 0
+- `multiple_deliveries`: 993
+- `Festival`: 228
+- `City`: 1,200
+- `Time_taken (min)`: 0
